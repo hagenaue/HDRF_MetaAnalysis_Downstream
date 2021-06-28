@@ -1,6 +1,6 @@
 #Gene Set Enrichment Analysis using the fGSEA package (fast GSEA) because the GSEA algorithm itself can't handle many permutations.
 #Using effect size output from the HDRF hippocampal meta-analysis (male-only) - estimate ("average" hedge's g across depression models - the magnitude of effect divided by variability in the sample (sort-of) - so basically in units of standard deviation)
-#This is a directional-based enrichment analysis - so we'll sDepressionModel if genes from a gene set tend to generally be upregulated or down-regulated using this analysis. If they show extreme effects in *both* directions we will not pick it up.
+#This is a directional-based enrichment analysis - so we'll see if genes from a gene set tend to generally be upregulated or down-regulated using this analysis. If they show extreme effects in *both* directions we will not pick it up.
 
 #Yusra Sannah & Megan Hagenauer
 #2021-06-28
