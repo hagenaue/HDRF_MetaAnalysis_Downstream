@@ -1,0 +1,41 @@
+﻿pathway,Pathway_shortName,TypeOfPathway,Direction
+DropViz_HC_ChoroidPlexus_Ttr_cluster-markers.csv,ChoroidPlexus_Ttr (DropViz: Hippocampus),CellType_HC,Up
+DropViz_HC_Ependyma_cluster-markers.csv,Ependyma (DropViz: Hippocampus),CellType_HC,Up
+DropViz_HC_Neurogenesis_Sox4_cluster-markers.csv,Neurogenesis_Sox4 (DropViz: Hippocampus),CellType_HC,Up
+DropViz_HC_FibroblastLike_Dcn_cluster-markers.csv,FibroblastLike_Dcn (DropViz: Hippocampus),CellType_HC,Up
+DropViz_HC_Endothelial_Flt1_cluster-markers.csv,Endothelial_Flt1 (DropViz: Hippocampus),CellType_HC,Up
+Endothelial_All_Darmanis_PNAS_2015,Endothelial Cells (Darmanis 2015),CellType_HC,Up
+Endothelial_All_Zeisel_Science_2015,Endothelial Cells (Zeisel 2015),CellType_HC,Up
+Endothelial_All_Zhang_JNeuro_2014,Endothelial Cells (Zhang 2014),CellType_HC,Up
+Endothelial_All_Daneman_PLOS_2010,Endothelial Cells (Daneman 2010),CellType_HC,Up
+DropViz_HC_Mural_Rgs5Acta2_cluster-markers.csv,Mural_Rgs5Acta2 (DropViz: Hippocampus),CellType_HC,Up
+Mural_All_Zeisel_Science_2015,Mural Cells (Zeisel 2015),CellType_HC,Up
+Mural_Pericyte_Zhang_JNeuro_2014,Pericytes (Zhang 2014),CellType_HC,Up
+Mural_Vascular_Daneman_PLOS_2010,Vascular Cells (Daneman 2010),CellType_HC,Up
+DropViz_HC_Astrocyte_Gja1_cluster-markers.csv,Astrocyte_Gja1 (DropViz: Hippocampus),CellType_HC,Up
+Astrocyte_All_Cahoy_JNeuro_2008,Astrocytes (Cahoy 2008),CellType_HC,Up
+Astrocyte_All_Darmanis_PNAS_2015,Astrocytes (Darmanis 2015),CellType_HC,Up
+Astrocyte_All_Zeisel_Science_2015,Astrocytes (Zeisel 2015),CellType_HC,Up
+Astrocyte_All_Zhang_JNeuro_2014,Astrocytes (Zhang 2014),CellType_HC,Up
+DropViz_HC_Microglia_Macrophage_C1qb_cluster-markers.csv,Microglia_Macrophage_C1qb (DropViz: Hippocampus),CellType_HC,Up
+Microglia_All_Zeisel_Science_2015,Microglia (Zeisel 2015),CellType_HC,Up
+Microglia_All_Darmanis_PNAS_2015,Microglia (Darmanis 2015),CellType_HC,Up
+Microglia_All_Zhang_JNeuro_2014,Microglia (Zhang 2014),CellType_HC,Up
+Neuron_All_Cahoy_JNeuro_2008,Neurons (Cahoy 2008),CellType_HC,Up
+Neuron_All_Darmanis_PNAS_2015,Neurons (Darmanis 2015),CellType_HC,Up
+Neuron_All_Zhang_JNeuro_2014,Neurons (Zhang 2014),CellType_HC,Up
+Neuron_Pyramidal_Cortical_Zeisel_Science_2015,Pyramidal Neurons (Zeisel 2015),CellType_HC,Up
+Neuron_CA1Pyramidal_Cortical_Zeisel_Science_2015,CA1 Pyramidal Neurons (Zeisel 2015),CellType_HC,Up
+Neuron_Interneuron_Zeisel_Science_2015,Interneurons (Zeisel 2015),CellType_HC,Up
+DropViz_HC_Interneuron_Gad2_cluster-markers.csv,Interneuron_Gad2 (DropViz: Hippocampus),CellType_HC,Up
+DropViz_HC_Neuron_CajalRetzius_Lhx1_cluster-markers.csv,Neuron_CajalRetzius_Lhx1 (DropViz: Hippocampus),CellType_HC,Up
+DropViz_HC_Neuron_Subiculum_Slc17a6_cluster-markers.csv,Neuron_Subiculum_Slc17a6 (DropViz: Hippocampus),CellType_HC,Up
+DropViz_HC_Polydendrocyte_Tnr_cluster-markers.csv,Polydendrocyte_Tnr (DropViz: Hippocampus),CellType_HC,Up
+Oligodendrocyte_Progenitor Cell_Darmanis_PNAS_2015,Oligodendrocyte Progenitors (Darmanis 2015),CellType_HC,Up
+Oligodendrocyte_Progenitor Cell_Zhang_JNeuro_2014,Oligodendrocyte Progenitors (Zhang 2014),CellType_HC,Up
+Oligodendrocyte_Newly-Formed_Zhang_JNeuro_2014,Oligodendrocytes_Newly-Formed (Zhang 2014),CellType_HC,Up
+DropViz_HC_Oligodendrocyte_Tfr_cluster-markers.csv,Oligodendrocyte_Tfr (DropViz: Hippocampus),CellType_HC,Up
+Oligodendrocyte_All_Cahoy_JNeuro_2008,Oligodendrocytes (Cahoy 2008),CellType_HC,Up
+Oligodendrocyte_Mature_Darmanis_PNAS_2015,Oligodendrocytes (Darmanis 2015),CellType_HC,Up
+Oligodendrocyte_All_Zeisel_Science_2015,Oligodendrocytes (Zeisel 2015),CellType_HC,Up
+Oligodendrocyte_Myelinating_Zhang_JNeuro_2014,Oligodendrocytes_Myelinating (Zhang 2014),CellType_HC,Up
