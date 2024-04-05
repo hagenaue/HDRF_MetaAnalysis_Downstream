@@ -1,1 +1,11 @@
 # HDRF_MetaAnalysis_Downstream
+
+This respository contains code and results files to accompany Yusra Sannah's Honor's thesis, supervised by Dr. Megan Hagenauer, Dr. Huzefa Khalil, and Dr. Huda Akil:
+
+Y. Sannah, "Hippocampal Differential Gene Expression Converges Across Animal Models of Mood Disorder: Results From An Interactive Meta-Analysis Pipeline Encompassing Five Animal Models", Thesis, 2022. https://doi.org/10.7302/21607.
+
+
+## Abstract:
+
+The Hope for Depression Research Foundation (HDRF) brings together several research groups conducting transcriptomic studies in different animal models of depression. Since no single animal model is optimal at representing human depression, the convergence between them may point to key neurobiological mechanisms relevant to the regulation of mood. To facilitate this, an interactive meta-analysis pipeline was constructed to identify consistent gene expression signatures across custom-defined sets of animal models, conditions, transcriptional profiling platforms, and brain regions. To test this pipeline, we selected thirteen microarray and RNA-seq datasets derived from the hippocampus or dentate gyrus of five animal models: Selectively-bred High Responder and Low Responder rats, Flinders Sensitive and Resistant rats, glucocorticoid receptor overexpression mice, chronic social defeat stress mice, and chronic corticosterone-treated mice (total n=146). We found 27 candidate genes (FDR&lt;0.1) which showed similar differential expression in the hippocampus across these animal models. These genes were highly skewed towards down-regulation (89%) and with particularly enriched expression in two hippocampal cell types: astrocytes (63%) and ependymal cells (30%). Gene Set Enrichment Analysis further indicated down-regulation within gene sets specific to the astrocytes, ependyma, choroid plexus, interneurons, polydendrocytes, and oligodendrocytes, and upregulation related to CA1 pyramidal neurons. These findings converge with results from post-mortem patients indicating reduced hippocampal astrocytic gene expression in depressed individuals, and thus illustrate the power of integrating results from numerous distinct animal models of depression to provide new avenues for investigating the neurobiology of this disorder.
+
